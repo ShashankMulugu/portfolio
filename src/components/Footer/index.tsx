@@ -8,21 +8,22 @@ const Footer: React.FC = () => (
   <Styled.Footer>
     <Container>
       <Styled.Links>
-        <Styled.Link href="/" rel="noreferrer noopener" target="_blank">
+        <Styled.Link href="https://github.com/ShashankMulugu" rel="noreferrer noopener" target="_blank">
           GitHub
         </Styled.Link>
         <Styled.Link
-          href="https://github.com/SaimirKapaj/gatsby-markdown-typescript-personal-website"
+          href="https://www.linkedin.com/in/shashank-mulugu/"
           rel="noreferrer noopener"
           target="_blank"
         >
-          Twitter
-        </Styled.Link>
-        <Styled.Link href="/" rel="noreferrer noopener" target="_blank">
-          Behance
+          LinkedIn
         </Styled.Link>
       </Styled.Links>
     </Container>
+    <br />
+    <Styled.Links>
+      Made with ❤️ in Gatsby.JS.
+    </Styled.Links>
   </Styled.Footer>
 );
 

@@ -1,9 +1,10 @@
 ---
 category: 'experiences'
-company: 'Forge Inc'
-position: 'UI/UX Designer'
-startDate: 'Mar 2010'
-endDate: 'Dec 2010'
+company: 'Zoho Corporation'
+position: 'Backend Engineer'
+startDate: 'Winter 2017'
+endDate: 'Winter 2017'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+•	Implemented a framework that parses server logs, stores them in a database, and suggests potential fixes when there is a problem. Java; PostgreSQL.\
+•	Improved query response time from ~50ms to ~8ms with the use of a caching system. Redis.

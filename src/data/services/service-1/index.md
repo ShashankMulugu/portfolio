@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Web Design'
+title: 'Web Dev'
 icon: 'laptop-code'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'I am very comfortable designing and building beautiful websites in component based frameworks like React.js ⚛ and Angular.js. I can also work with dynamic large-scale web applications with databases and multiple microservices.'
 ---

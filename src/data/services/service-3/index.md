@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Copywrite'
-icon: 'edit'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+title: 'Backend Development'
+icon: 'server'
+description: 'Need me to spin up or maintain your server architecture or write some backend functionality like database triggers, write some APIs (REST or GraphQL)? I am your guy.'
 ---

@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'Photoshop'
-percentage: 58
+title: 'Google Cloud / Firebase'
+percentage: 85
 ---

@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Digital Marketing'
-icon: 'bullhorn'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+title: 'DevOps'
+icon: 'user-cog'
+description: 'Do you want to be able to improve your CI/CD workflow and improve the uptime of your application? I can make sure that the most important services of your application never break in production.'
 ---

@@ -1,6 +1,6 @@
 ---
 category: 'contact'
-title: 'Email'
-icon: 'paper-plane'
-content: 'greatgatsby@gmail.com'
+title: 'Address'
+icon: 'map-marker-alt'
+content: 'Tempe, AZ, USA'
 ---
