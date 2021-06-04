@@ -1,5 +1,6 @@
 {
-  "name": "gatsby-personal-website-starter",
+  "name": "gatsby-personal-website-starter-shashank-mulugu",
+  "homepage": "https://ShashankMulugu.github.io/portfolio",
   "private": true,
   "description": "Gatsby Markdown Personal Website Starter, using Typescript, Styled Components, Tailwindcss and Framer Motion.",
   "version": "0.1.0",
@@ -62,7 +63,9 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
