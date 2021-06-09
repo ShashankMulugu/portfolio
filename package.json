@@ -1,6 +1,6 @@
 {
   "name": "gatsby-personal-website-starter-shashank-mulugu",
-  "homepage": "https://shashankmulugu.github.io/portfolio",
+  "homepage": "https://shashankmulugu.github.io/portfolio/",
   "private": true,
   "description": "Gatsby Markdown Personal Website Starter, using Typescript, Styled Components, Tailwindcss and Framer Motion.",
   "version": "0.1.0",

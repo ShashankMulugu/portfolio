@@ -22,7 +22,7 @@ const Footer: React.FC = () => (
     </Container>
     <br />
     <Styled.Links>
-      Made with ❤️ in Gatsby.JS.
+      Made with ❤️ using Gatsby.JS.
     </Styled.Links>
   </Styled.Footer>
 );
